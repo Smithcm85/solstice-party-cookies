@@ -22,7 +22,7 @@
   library(rlist)
 
 #create and empty list
-cookielist <- list("Typ3 - Quantity (dozens)")  
+cookielist <- list("Type - Quantity (dozens)")  
 
 killswitch <- 0
 
